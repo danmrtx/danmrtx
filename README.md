@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmartins30)
 [![Email](https://img.shields.io/badge/Email-danielmartins30%40icloud.com-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:danielmartins30@icloud.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573991315358)
 [![Inglês C1](https://img.shields.io/badge/Inglês-Avançado%20(C1)-059669?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
 
 <p align="center">
