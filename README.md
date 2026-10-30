@@ -38,7 +38,7 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
 > **Sistema corporativo moderno para gestão de estoques de alta rotatividade, controle de perdas e automação logística para redes de varejo e centros de distribuição.**
 
 <div align="center">
-  <img src="assets/nexus360-preview.jpg" alt="Nexus360 Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-preview.jpg" alt="Nexus360 Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 - **O Problema Resolvido:** Redução drástica de prejuízos causados por produtos vencidos e gargalos de reposição entre filiais e matriz.
@@ -58,7 +58,7 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
 > **Progressive Web App (PWA) para acompanhamento preciso de jornadas de trabalho, cálculo automático de minutos extras/atrasos e gestão de banco de horas.**
 
 <div align="center">
-  <img src="assets/uppertime-preview.jpg" alt="UpperTime Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/uppertime-preview.jpg" alt="UpperTime Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 - **O Problema Resolvido:** Elimina surpresas e discrepâncias no fechamento mensal da folha de pagamento para colaboradores CLT e prestadores.
@@ -78,7 +78,7 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
 > **Ferramenta client-side para processamento inteligente de PDFs de Danfe, fragmentação unitária de itens e geração de relatórios de rateio.**
 
 <div align="center">
-  <img src="assets/notafacil-preview.jpg" alt="NotaFácil Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/notafacil-preview.jpg" alt="NotaFácil Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 - **O Problema Resolvido:** Elimina o trabalho manual de contabilidade e TI de abrir notas fiscais com múltiplos itens e atribuir chamados e centros de custo unidade por unidade.
