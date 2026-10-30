@@ -66,6 +66,13 @@ Sou graduando do **8º semestre de Sistemas de Informação** na Faculdade UniFT
       <p align="center"><sub>Métricas analíticas de Curva ABC, taxa de ruptura, histórico de movimentações e cálculo de perdas.</sub></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4 align="center">Controle de Usuários e Permissões (RBAC)</h4>
+      <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-usuarios.png" alt="Controle de Usuários e Permissões" width="100%" style="border-radius: 6px;" />
+      <p align="center"><sub>Gestão de acessos por perfil (Administrador, Gerente, Operador) e escopo de visualização por loja física ou matriz.</sub></p>
+    </td>
+  </tr>
 </table>
 
 - **Problema Solucionado:** Erradicação de prejuízos operacionais decorrentes de produtos vencidos nas gôndolas e otimização dos fluxos de reposição entre filiais e centros de distribuição.
