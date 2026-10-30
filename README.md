@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Daniel Martins 👋
+# Daniel Martins
 ### **Analista de TI & Desenvolvedor Full Stack | Automação com IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmartins30)
@@ -8,90 +8,118 @@
 [![Inglês C1](https://img.shields.io/badge/Inglês-Avançado%20(C1)-059669?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danmrtx&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=4f46e5&style=flat-square" alt="Visitas ao Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=danmrtx&label=Visualizações%20do%20Perfil&color=4f46e5&style=flat-square" alt="Visitas ao Perfil" />
 </p>
 
 ---
 
 </div>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-Sou graduando do **8º semestre de Sistemas de Informação** na Faculdade UniFTC e atuo como **Analista de T.I no Grupo Itadil**. Tenho sólida vivência em diagnóstico de falhas, infraestrutura, suporte a sistemas corporativos e otimização de processos com desenvolvimento de software e automação inteligente.
+Sou graduando do **8º semestre de Sistemas de Informação** na Faculdade UniFTC e atuo como **Analista de T.I no Grupo Itadil**. Possuo sólida experiência em infraestrutura corporativa, diagnóstico e resolução de falhas, suporte a sistemas críticos e otimização de fluxos operacionais por meio de desenvolvimento de software e inteligência artificial.
 
-- 🔭 **Foco de Atuação:** Construção de aplicações web modernas, dashboards corporativos, arquiteturas escaláveis e automação de fluxos técnicos utilizando **IA Aplicada** e engenharia de prompts.
-- 💼 **Experiência Profissional:** Vivência corporativa prática em ambientes dinâmicos de TI, alinhando suporte técnico de alto nível, visão de processos e criação de ferramentas sob medida.
-- 🌐 **Idiomas:** Inglês Avançado (**C1** - apto para times e documentação internacional) e Espanhol Básico (**A2**).
-- 🎯 **Diferenciais:** Perfil analítico, proativo, com visão comercial e forte habilidade na resolução de problemas complexos.
-
----
-
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas reais de gestão, produtividade e auditoria corporativa:
+- **Foco de Atuação:** Construção de aplicações web robustas, dashboards analíticos para gestão, arquiteturas em nuvem e automação de processos corporativos com uso estratégico de IA e engenharia de prompts.
+- **Experiência Corporativa:** Atuação direta em ambientes operacionais e corporativos de alta demanda, alinhando suporte técnico avançado, governança e desenvolvimento de ferramentas customizadas.
+- **Idiomas:** Inglês Avançado (**C1** - apto para comunicação técnica e ambientes globais) e Espanhol Básico (**A2**).
+- **Competências:** Pensamento analítico, perfil orientador de resultados, proatividade, relacionamento comercial e resolução estratégica de problemas.
 
 ---
 
-### 1. 📦 [Nexus360 - Gestão Integrada de Estoque & WMS](https://github.com/danmrtx/nexus360)
+## Projetos em Destaque
+
+---
+
+### 1. Nexus360 - Gestão Integrada de Estoque e WMS
 
 > **Sistema corporativo moderno para gestão de estoques de alta rotatividade, controle de perdas e automação logística para redes de varejo e centros de distribuição.**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-preview.jpg" alt="Nexus360 Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-dashboard.png" alt="Nexus360 - Painel Principal" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
+  <p><em>Painel Principal: KPIs operacionais em tempo real, produtos vencidos, estoques críticos e navegação integrada entre módulos.</em></p>
 </div>
 
-- **O Problema Resolvido:** Redução drástica de prejuízos causados por produtos vencidos e gargalos de reposição entre filiais e matriz.
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Controle e Rastreabilidade de Lotes</h4>
+      <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-lotes.png" alt="Controle de Lotes e Validades" width="100%" style="border-radius: 6px;" />
+      <p align="center"><sub>Rastreabilidade ponta a ponta (Produto, NF, Lote, Validade e classificação de risco).</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">Entrada de Mercadorias</h4>
+      <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-entradas.png" alt="Entrada de Mercadorias" width="100%" style="border-radius: 6px;" />
+      <p align="center"><sub>Recebimento físico vinculado a Fornecedor, NF e geração instantânea de lote com validade.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Saída de Mercadorias (Algoritmo FEFO)</h4>
+      <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-saidas-fefo.png" alt="Saída FEFO" width="100%" style="border-radius: 6px;" />
+      <p align="center"><sub>Baixas inteligentes priorizando lotes de menor vencimento para erradicar perdas no varejo.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">Relatórios Gerenciais e Indicadores</h4>
+      <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/nexus360-relatorios.png" alt="Relatórios Gerenciais" width="100%" style="border-radius: 6px;" />
+      <p align="center"><sub>Métricas analíticas de Curva ABC, taxa de ruptura, histórico de movimentações e cálculo de perdas.</sub></p>
+    </td>
+  </tr>
+</table>
+
+- **Problema Solucionado:** Erradicação de prejuízos operacionais decorrentes de produtos vencidos nas gôndolas e otimização dos fluxos de reposição entre filiais e centros de distribuição.
 - **Destaques Técnicos:**
-  - **Algoritmo FEFO (*First Expired, First Out*):** Automação na baixa e separação dos lotes com data de validade mais próxima, bloqueando produtos vencidos automaticamente.
-  - **Arquitetura Multi-Unidades:** Gestão unificada de estoques em Centros de Distribuição (CDs) e Lojas com transferências e aprovações atômicas.
-  - **Segurança Corporativa (RBAC + RLS):** Controle rigoroso de permissões com *Row Level Security* direto no banco PostgreSQL.
-  - **Painel Analítico de KPIs:** Métricas em tempo real de capital imobilizado, estoques críticos e curva ABC.
+  - **Algoritmo FEFO (First Expired, First Out):** Automação total nas baixas e separações priorizando os lotes mais próximos da data de expiração, com trava automática para lotes vencidos.
+  - **Arquitetura Multi-Unidades:** Gestão unificada com segregação física entre Centros de Distribuição (CDs) e Lojas, com solicitações e transferências atômicas.
+  - **Segurança Corporativa (RBAC + RLS):** Controle de permissões baseado em funções corporativas com *Row Level Security* nativo no PostgreSQL.
+  - **Métricas Analíticas:** Painéis de curva ABC, cálculo de risco financeiro em estoque e sugestões automáticas de reposição.
 - **Stack:** `Next.js 14`, `React`, `TypeScript`, `Tailwind CSS`, `Supabase (PostgreSQL / RLS)`.
 
-👉 **[Acessar Repositório do Nexus360](https://github.com/danmrtx/nexus360)**
+[Repositório do Nexus360](https://github.com/danmrtx/nexus360)
 
 ---
 
-### 2. ⏱️ [UpperTime - Rastreador Inteligente de Horas Extras CLT](https://github.com/danmrtx/UpperTime)
+### 2. UpperTime - Rastreador Inteligente de Horas Extras CLT
 
 > **Progressive Web App (PWA) para acompanhamento preciso de jornadas de trabalho, cálculo automático de minutos extras/atrasos e gestão de banco de horas.**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/uppertime-preview.png" alt="UpperTime Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/uppertime-preview.png" alt="UpperTime Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
 </div>
 
-- **O Problema Resolvido:** Elimina surpresas e discrepâncias no fechamento mensal da folha de pagamento para colaboradores CLT e prestadores.
+- **Problema Solucionado:** Eliminação de divergências e falta de previsibilidade no fechamento mensal da folha de pagamento para profissionais em regime CLT e prestadores flexíveis.
 - **Destaques Técnicos:**
-  - **Batida Instantânea com Delta:** Cálculo em tempo real de minutos positivos/negativos comparando a marcação real com a jornada configurada.
-  - **Jornadas Flexíveis:** Suporte a horários personalizados para dias de semana, sábados e domingos.
-  - **Instalação Nativa (PWA):** Funciona no navegador do celular (Android/iOS) e desktop sem necessidade de loja de aplicativos.
-  - **Cloud Sync & Exportação:** Armazenamento individual criptografado na nuvem e exportação de históricos para planilhas Excel/CSV.
-- **Stack:** `JavaScript (ES6+)`, `HTML5 & CSS3 Moderno`, `PWA / Service Workers`, `Vercel Serverless Functions`, `Supabase`.
+  - **Batida Instantânea com Cálculo de Delta:** Apuração em tempo real de minutos adicionais ou atrasos em relação à escala de trabalho prevista.
+  - **Configurações Individuais de Jornada:** Personalização completa de escalas diárias, incluindo diferenciação para sábados e domingos.
+  - **Instalação Nativa (PWA):** Execução independente no navegador mobile (iOS e Android) ou desktop, operando com agilidade e design responsivo.
+  - **Sincronização em Nuvem e Exportação:** Persistência segura em nuvem e exportação dos dados estruturados em formato CSV/Excel.
+- **Stack:** `JavaScript (ES6+)`, `HTML5 & CSS3`, `PWA / Service Workers`, `Vercel Serverless Functions`, `Supabase`.
 
-👉 **[Acessar Repositório do UpperTime](https://github.com/danmrtx/UpperTime)**
+[Repositório do UpperTime](https://github.com/danmrtx/UpperTime)
 
 ---
 
-### 3. 📄 [NotaFácil - Extrator de Danfe & Rateio Contábil de Notas Fiscais](https://github.com/danmrtx/NotaFacil)
+### 3. NotaFácil - Extrator de Danfe e Rateio Contábil de Notas Fiscais
 
 > **Ferramenta client-side para processamento inteligente de PDFs de Danfe, fragmentação unitária de itens e geração de relatórios de rateio.**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/notafacil-preview.png" alt="NotaFácil Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/danmrtx/danmrtx/main/assets/notafacil-preview.png" alt="NotaFácil Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
 </div>
 
-- **O Problema Resolvido:** Elimina o trabalho manual de contabilidade e TI de abrir notas fiscais com múltiplos itens e atribuir chamados e centros de custo unidade por unidade.
+- **Problema Solucionado:** Automação do trabalho manual nas áreas de TI e Controladoria na conferência de faturas fiscais com múltiplos itens para alocação de centros de custo e chamados.
 - **Destaques Técnicos:**
-  - **100% Client-Side:** Leitura e extração de dados diretamente no navegador via JavaScript (zero custo de infraestrutura e privacidade total de dados fiscais).
-  - **Fragmentação Inteligente de Itens:** Separa automaticamente itens com quantidades múltiplas em linhas individuais para rateio detalhado.
-  - **Exportação Formatada:** Geração instantânea de relatório em PDF customizado com dados da empresa, número da NF, tickets e rateios atribuídos.
+  - **Processamento 100% Client-Side:** Execução direta no navegador via JavaScript, garantindo custo zero de infraestrutura e sigilo absoluto sobre dados fiscais da empresa.
+  - **Fragmentação Unitária de Produtos:** Decomposição automática de itens com quantidade múltipla em registros unitários, permitindo a correlação de diferentes chamados e centros de custo ao mesmo código de produto.
+  - **Geração de Relatórios em PDF:** Criação instantânea de documento PDF formatado com dados da nota, detalhes dos itens e rateios preenchidos para validação contábil.
 - **Stack:** `JavaScript`, `Tailwind CSS`, `PDF.js`, `jsPDF / AutoTable`.
 
-👉 **[Acessar Repositório do NotaFácil](https://github.com/danmrtx/NotaFacil)**
+[Repositório do NotaFácil](https://github.com/danmrtx/NotaFacil)
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+## Tecnologias e Habilidades
 
 <table>
   <tr>
@@ -106,7 +134,7 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
     <td valign="top" width="25%">
-      <h4>Backend & Dados</h4>
+      <h4>Backend e Dados</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
@@ -114,14 +142,14 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
     <td valign="top" width="25%">
-      <h4>IA & Automação</h4>
+      <h4>IA e Automação</h4>
       <img src="https://img.shields.io/badge/Prompt_Engineering-8E75C4?style=flat-square&logo=openai&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=flat-square&logo=google&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=anthropic&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Process_Optimization-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
     </td>
     <td valign="top" width="25%">
-      <h4>Infra & Ferramentas</h4>
+      <h4>Infraestrutura e Ferramentas</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
@@ -133,19 +161,19 @@ Aqui estão alguns dos principais sistemas desenvolvidos para resolver problemas
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danmrtx&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true" alt="Estatísticas de Daniel no GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danmrtx&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true" alt="Estatísticas no GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmrtx&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danmrtx&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danmrtx&theme=tokyonight&hide_border=true" alt="Streak no GitHub" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com dedicação por <b>Daniel Martins</b> | Aberto a novos desafios e conexões profissionais</sub>
+  <sub>Daniel Martins | Analista de TI e Desenvolvedor</sub>
 </div>
